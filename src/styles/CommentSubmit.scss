@@ -1,16 +1,18 @@
 .comment-submit {
   padding: 35px;
   background-color: inherit;
-  border-top: 1px solid #C3C9D0; }
-  .comment-submit .comment-submit-button {
+  border-top: 1px solid #C3C9D0;
+  .comment-submit-button {
     margin: auto;
     display: block;
     height: 40px;
     line-height: 40px;
-    background-color: #009aff;
+    background-color: rgb(0, 154, 255);
     padding: 0 55px;
     font-size: 1.333em;
     font-weight: bold;
     color: #FFF;
     border-width: 2px;
-    border-color: transparent; }
+    border-color: transparent;
+  }
+}

@@ -7,14 +7,16 @@
   background-repeat: no-repeat;
   min-height: 240px;
   padding-top: 57px;
-  padding-bottom: 30px; }
-  .entry-container .entry-container-center {
+  padding-bottom: 30px;
+  .entry-container-center {
     position: relative;
     background-color: rgba(255, 255, 255, 0.96);
     max-width: 700px;
     border-width: 0;
     border-color: #999;
-    margin: auto; }
+    margin: auto;
+  }
+}
 
 span.report {
   position: absolute;
@@ -24,4 +26,5 @@ span.report {
   line-height: 30px;
   font-size: 12px;
   right: 35px;
-  bottom: 20px; }
+  bottom: 20px;
+}
